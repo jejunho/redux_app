@@ -23,9 +23,10 @@ React
 - id 속성을 완료해야하는 것과 함께 보내야합니다. todos reducer는 이전 배열을 대체 할 새로운 배열을 반환합니다. 우리는 원래 배열을 돌연변이시키지 않고 새로운 버전으로 교체합니다.
 
 설치
+
 npm install --save redux
 
 보조 패키지
-npm install --save react-redux
 
+npm install --save react-redux  
 npm install --save-dev redux-devtools
