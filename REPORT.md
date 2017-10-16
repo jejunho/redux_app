@@ -27,4 +27,5 @@ npm install --save redux
 
 보조 패키지
 npm install --save react-redux
+
 npm install --save-dev redux-devtools
